@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial host-only Windows desktop release.",
+  "platforms": {
+    "win32-x64": {
+      "url": "https://github.com/foldzyyonnabeat/riquest-host-releases/releases/download/v0.1.0/riquest-host-win32-x64-installer.exe",
+      "sha256": "a8f0c5dcc31d249910841719455b3c3bc5e5200b32b1482bf7b1e71ca1556dac",
+      "size": 80630604,
+      "installer": true
+    }
+  }
+}

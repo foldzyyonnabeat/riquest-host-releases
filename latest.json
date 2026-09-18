@@ -1,5 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial host-only Windows desktop release.",
-  "platforms": {}
+  "notes": "RiQuest Host 1.0.0 Windows desktop release.",
+  "platforms": {
+    "win32-x64": {
+      "sha256": "5a8cf752f4b880e73b2662a9a9ef951e7da8db2bbb672fba7ca402f75b11d06f",
+      "size": 80629151,
+      "url": "https://github.com/foldzyyonnabeat/riquest-host-releases/releases/download/1.0.0/riquest-host-win32-x64-installer.exe"
+    }
+  },
+  "version": "1.0.0"
 }
